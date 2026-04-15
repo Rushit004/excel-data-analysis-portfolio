@@ -1,0 +1,30 @@
+Year,Category,Units Sold,Unit Price,Total Sales,,,,Unique Catagories, Category wise Sales,Year,Sales
+2009,Accessories,6,9,54,Sum,9858,,,,,
+2003,Accessories,9,8,72,Average,339.9310345,,Accessories,2293,2001,925
+2006,Accessories,11,8,88,Maximum,1000,,Clothing,1915,2002,770
+2009,Accessories,13,8,104,Minimum,54,,Electronics,5650,2003,1062
+2002,Accessories,12,10,120,Standerd davition,271.7515844,,,,2004,790
+2005,Accessories,14,10,140,Median,225,,,9858,2005,965
+2003,Clothing,5,30,150,Skewness,1.194899008,,,,2006,868
+2004,Accessories,10,15,150,,,,,,2007,1400
+2008,Accessories,16,10,160,,,,,,2008,1010
+2006,Clothing,6,30,180,,,,,,2009,2068
+2007,Accessories,12,15,180,,,,,,,
+2001,Clothing,10,20,200,,,,,,,
+2002,Clothing,8,25,200,,,,,,,
+2009,Clothing,7,30,210,,,,,,,
+2001,Accessories,15,15,225,,,,,,,
+2005,Clothing,9,25,225,,,,,,,
+2004,Clothing,12,20,240,,,,,,,
+2008,Clothing,10,25,250,,,,,,,
+2007,Clothing,13,20,260,,,,,,,
+2004,Electronics,2,200,400,,,,,,,
+2002,Electronics,3,150,450,,,,,,,
+2001,Electronics,5,100,500,,,,,,,
+2005,Electronics,6,100,600,,,,,,,
+2006,Electronics,4,150,600,,,,,,,
+2008,Electronics,3,200,600,,,,,,,
+2009,Electronics,7,100,700,,,,,,,
+2003,Electronics,7,120,840,,,,,,,
+2007,Electronics,8,120,960,,,,,,,
+2009,Accessories,10,100,1000,,,,,,,

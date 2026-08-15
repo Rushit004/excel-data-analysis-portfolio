@@ -5,6 +5,7 @@
 ## Project preview
 
 ![HR Dashboard](screenshots/dashboard.png)
+![Salses Dashboard](screenshots/sales_dashboard.png)
 
 A portfolio of hands-on Excel data analysis and dashboard projects using sales, crime, employee, Olympics, and HR datasets.
 
@@ -54,6 +55,13 @@ Since GitHub does not fully preview Excel files, use the following options to re
 - Visualized employee KPIs with charts and slicers
 - Applied clean formatting for readability and insight
 
+### 6. Sales Performance Dashboard
+- Built an interactive dashboard from ~7,000 order records across 200 products and 1,000 customer profiles
+- Created pivot tables for monthly sales/profit trends, weekday sales, category-gender breakdown, and country-wise customer counts
+- Designed KPI scorecards for total sales, total profit, total products, and total customers
+- Added 6 charts (line, bar, pie) plus a slicer for interactive category filtering
+- Combined raw data, pivot summaries, and dashboard visuals in a single workbook
+
 ---
 
 ## Key skills gained
@@ -72,7 +80,7 @@ Since GitHub does not fully preview Excel files, use the following options to re
 ```
 excel-data-analysis-projects/
 │
-├── datasets/
+├── datasets_and_analysis/
 │ ├── sales/
 │ ├── crime/
 │ ├── employees/
@@ -80,7 +88,8 @@ excel-data-analysis-projects/
 │ └── hr/
 │
 ├── dashboards/
-│ └── hr_dashboard.xlsx
+│ ├── hr_dashboard.xlsx
+│ └── sales_dashboard.xlsx
 │
 ├── screenshots/
 │ 

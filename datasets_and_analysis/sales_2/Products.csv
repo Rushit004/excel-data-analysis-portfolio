@@ -1,0 +1,201 @@
+Product ID,Product Name,Company,Cost Price 
+PROD1,Canon DSLR,Dyson,39
+PROD2,Sony Headphones,Samsung,56
+PROD3,Philips Air Fryer,KitchenAid,82
+PROD4,Lego Star Wars Set,Apple,96
+PROD5,Samsung Refrigerator,Dyson,2
+PROD6,HP Printer,Bose,45
+PROD7,Samsung Galaxy S22,IKEA,53
+PROD8,Apple Watch,Asus,50
+PROD9,IKEA Chair,Apple,59
+PROD10,Samsung Refrigerator,HP,16
+PROD11,HP Printer,Nike,81
+PROD12,Apple Watch,Lego,17
+PROD13,Lego Star Wars Set,KitchenAid,13
+PROD14,Dyson Vacuum Cleaner,Philips,69
+PROD15,Apple Watch,Bose,62
+PROD16,Fitbit Tracker,Rolex,20
+PROD17,Canon DSLR,LG,41
+PROD18,Rolex Watch,Nike,80
+PROD19,Adidas Sneakers,Dyson,100
+PROD20,HP Printer,Canon,38
+PROD21,Dell Laptop,Asus,92
+PROD22,Canon DSLR,LG,61
+PROD23,Levi’s Jeans,KitchenAid,3
+PROD24,Canon DSLR,Bose,98
+PROD25,KitchenAid Mixer,HP,98
+PROD26,LG OLED TV,Samsung,48
+PROD27,iPhone 14,Samsung,14
+PROD28,Canon DSLR,Apple,12
+PROD29,Fitbit Tracker,Dyson,2
+PROD30,Lego Star Wars Set,HP,38
+PROD31,Levi’s Jeans,HP,38
+PROD32,Philips Air Fryer,KitchenAid,91
+PROD33,Nike Running Shoes,Panasonic,36
+PROD34,Dell Laptop,Apple,66
+PROD35,Samsung Galaxy S22,Philips,11
+PROD36,Rolex Watch,IKEA,71
+PROD37,Philips Air Fryer,Asus,49
+PROD38,Philips Air Fryer,Levi’s,76
+PROD39,Bose Soundbar,Canon,18
+PROD40,Dyson Vacuum Cleaner,Apple,42
+PROD41,Levi’s Jeans,KitchenAid,21
+PROD42,Adidas Sneakers,IKEA,75
+PROD43,Canon DSLR,Asus,81
+PROD44,Dell Laptop,Canon,60
+PROD45,HP Printer,Adidas,96
+PROD46,Apple Watch,Samsung,80
+PROD47,Levi’s Jeans,Asus,42
+PROD48,KitchenAid Mixer,Levi’s,90
+PROD49,Apple Watch,Philips,40
+PROD50,Dyson Vacuum Cleaner,Asus,65
+PROD51,Rolex Watch,KitchenAid,92
+PROD52,Samsung Galaxy S22,Adidas,24
+PROD53,KitchenAid Mixer,KitchenAid,21
+PROD54,KitchenAid Mixer,Lego,67
+PROD55,HP Printer,Panasonic,93
+PROD56,Apple Watch,Dell,93
+PROD57,Canon DSLR,Panasonic,30
+PROD58,Philips Air Fryer,Levi’s,9
+PROD59,Nike Running Shoes,Adidas,56
+PROD60,Samsung Refrigerator,IKEA,2
+PROD61,Dyson Vacuum Cleaner,Adidas,68
+PROD62,Canon DSLR,Asus,50
+PROD63,Apple Watch,Dyson,93
+PROD64,Dell Laptop,Rolex,81
+PROD65,Apple Watch,Philips,61
+PROD66,Canon DSLR,HP,81
+PROD67,Nike Running Shoes,HP,24
+PROD68,Canon DSLR,LG,63
+PROD69,Samsung Refrigerator,Panasonic,98
+PROD70,Apple Watch,Canon,42
+PROD71,Lego Star Wars Set,HP,18
+PROD72,KitchenAid Mixer,Asus,95
+PROD73,Dell Laptop,Bose,64
+PROD74,Samsung Refrigerator,Panasonic,70
+PROD75,Adidas Sneakers,Samsung,96
+PROD76,HP Printer,Sony,90
+PROD77,Levi’s Jeans,Lego,66
+PROD78,IKEA Chair,IKEA,6
+PROD79,Dyson Vacuum Cleaner,Bose,61
+PROD80,Adidas Sneakers,Rolex,19
+PROD81,Dell Laptop,Levi’s,60
+PROD82,KitchenAid Mixer,Dyson,67
+PROD83,Lego Star Wars Set,Asus,13
+PROD84,Dyson Vacuum Cleaner,LG,88
+PROD85,Rolex Watch,LG,67
+PROD86,Sony Headphones,IKEA,25
+PROD87,Levi’s Jeans,HP,37
+PROD88,Canon DSLR,KitchenAid,100
+PROD89,HP Printer,Nike,43
+PROD90,Adidas Sneakers,LG,64
+PROD91,Nike Running Shoes,Lego,57
+PROD92,Levi’s Jeans,IKEA,88
+PROD93,iPhone 14,Samsung,14
+PROD94,HP Printer,Lego,78
+PROD95,Apple Watch,LG,70
+PROD96,Bose Soundbar,Samsung,42
+PROD97,Samsung Galaxy S22,Asus,87
+PROD98,Samsung Refrigerator,LG,100
+PROD99,Samsung Refrigerator,Bose,11
+PROD100,Sony Headphones,Bose,56
+PROD101,iPhone 14,Philips,70
+PROD102,Rolex Watch,IKEA,25
+PROD103,Adidas Sneakers,Asus,5
+PROD104,Adidas Sneakers,KitchenAid,83
+PROD105,Philips Air Fryer,Fitbit,15
+PROD106,Apple Watch,Bose,56
+PROD107,iPhone 14,Adidas,20
+PROD108,IKEA Chair,Bose,36
+PROD109,Dyson Vacuum Cleaner,Dell,26
+PROD110,Sony Headphones,KitchenAid,54
+PROD111,Samsung Refrigerator,IKEA,27
+PROD112,KitchenAid Mixer,HP,22
+PROD113,Sony Headphones,Panasonic,42
+PROD114,Levi’s Jeans,Apple,63
+PROD115,KitchenAid Mixer,Apple,70
+PROD116,Bose Soundbar,Lego,89
+PROD117,Rolex Watch,Apple,98
+PROD118,Rolex Watch,HP,39
+PROD119,Adidas Sneakers,Apple,98
+PROD120,Rolex Watch,Bose,43
+PROD121,Dell Laptop,Asus,58
+PROD122,Sony Headphones,Adidas,89
+PROD123,Samsung Refrigerator,Apple,84
+PROD124,Canon DSLR,Lego,6
+PROD125,Bose Soundbar,Asus,96
+PROD126,Apple Watch,Apple,12
+PROD127,LG OLED TV,Adidas,24
+PROD128,Rolex Watch,Apple,39
+PROD129,Apple Watch,HP,36
+PROD130,LG OLED TV,IKEA,13
+PROD131,Apple Watch,Canon,81
+PROD132,Samsung Galaxy S22,Apple,100
+PROD133,Dell Laptop,Nike,80
+PROD134,Philips Air Fryer,Apple,42
+PROD135,Adidas Sneakers,Asus,23
+PROD136,Adidas Sneakers,Asus,57
+PROD137,IKEA Chair,Adidas,86
+PROD138,Apple Watch,Asus,4
+PROD139,Fitbit Tracker,Apple,69
+PROD140,iPhone 14,Canon,17
+PROD141,IKEA Chair,Samsung,4
+PROD142,Sony Headphones,Asus,78
+PROD143,Samsung Galaxy S22,Lego,64
+PROD144,HP Printer,Fitbit,10
+PROD145,Apple Watch,Nike,63
+PROD146,Samsung Galaxy S22,Adidas,66
+PROD147,iPhone 14,Samsung,53
+PROD148,HP Printer,Dell,8
+PROD149,Lego Star Wars Set,Rolex,20
+PROD150,Samsung Galaxy S22,Dell,10
+PROD151,Rolex Watch,Sony,76
+PROD152,Sony Headphones,Lego,13
+PROD153,Fitbit Tracker,HP,21
+PROD154,Nike Running Shoes,Panasonic,6
+PROD155,Samsung Galaxy S22,Asus,86
+PROD156,Canon DSLR,HP,57
+PROD157,Dyson Vacuum Cleaner,KitchenAid,91
+PROD158,iPhone 14,Apple,32
+PROD159,Nike Running Shoes,Rolex,67
+PROD160,IKEA Chair,LG,50
+PROD161,Rolex Watch,Rolex,69
+PROD162,Apple Watch,Philips,52
+PROD163,Canon DSLR,Canon,87
+PROD164,LG OLED TV,Asus,71
+PROD165,Rolex Watch,Fitbit,26
+PROD166,Samsung Refrigerator,LG,29
+PROD167,Nike Running Shoes,HP,99
+PROD168,Dyson Vacuum Cleaner,Panasonic,89
+PROD169,Adidas Sneakers,Lego,61
+PROD170,Apple Watch,HP,20
+PROD171,Nike Running Shoes,Levi’s,16
+PROD172,Fitbit Tracker,KitchenAid,50
+PROD173,Rolex Watch,HP,53
+PROD174,Samsung Refrigerator,Dyson,25
+PROD175,Fitbit Tracker,IKEA,97
+PROD176,Canon DSLR,Adidas,82
+PROD177,HP Printer,IKEA,43
+PROD178,Dell Laptop,HP,98
+PROD179,Philips Air Fryer,Adidas,73
+PROD180,LG OLED TV,KitchenAid,11
+PROD181,Adidas Sneakers,Canon,80
+PROD182,Dell Laptop,HP,39
+PROD183,Sony Headphones,Rolex,97
+PROD184,KitchenAid Mixer,Sony,25
+PROD185,Samsung Galaxy S22,Philips,14
+PROD186,Nike Running Shoes,Bose,10
+PROD187,Dell Laptop,Philips,52
+PROD188,Nike Running Shoes,Panasonic,36
+PROD189,Sony Headphones,Levi’s,9
+PROD190,KitchenAid Mixer,Dyson,63
+PROD191,IKEA Chair,Lego,67
+PROD192,HP Printer,Dyson,75
+PROD193,Samsung Refrigerator,Dell,98
+PROD194,IKEA Chair,Panasonic,77
+PROD195,LG OLED TV,Nike,88
+PROD196,IKEA Chair,Canon,55
+PROD197,KitchenAid Mixer,Dell,11
+PROD198,Dell Laptop,LG,57
+PROD199,Dell Laptop,Lego,42
+PROD200,Sony Headphones,Levi’s,31
